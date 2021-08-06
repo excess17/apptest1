@@ -1,0 +1,6 @@
+code: points-3-d-details-widget
+titles:
+  en: Points 3 D Details Widget
+  it: Points 3 D Details Widget
+group: free
+customUiPath: points-3-d-details-widget.ftl

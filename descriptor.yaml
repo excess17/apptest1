@@ -1,0 +1,13 @@
+code: apptest1-bundle
+description: This is the apptest1 bundle
+
+components:
+  plugins:
+    - plugins/apptest1-plugin.yaml
+
+  widgets:
+    - ui/widgets/points-3-d/tableWidget/points-3-d-table-widget-descriptor.yaml
+    - ui/widgets/points-3-d/detailsWidget/points-3-d-details-widget-descriptor.yaml
+    - ui/widgets/points-3-d/formWidget/points-3-d-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

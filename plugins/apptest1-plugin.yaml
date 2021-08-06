@@ -1,0 +1,8 @@
+descriptorVersion: v3
+image: excess17/apptest-1:0.0.1-SNAPSHOT
+dbms: mysql
+healthCheckPath: "/management/health"
+roles:
+  - "apptest1-admin"
+  - "points-3-d-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
